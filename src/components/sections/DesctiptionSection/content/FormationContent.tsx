@@ -30,7 +30,7 @@ export default function FormationContent() {
         <FormationText>
           Choose 11 players, distributing the budget between stars and promising
           talents. It is important to find a balance between expensive top
-          players and underrated players who can bring a lot of points. Don't
+          players and underrated players who can bring a lot of points. Dont
           forget about substitutes - they will help in case of injuries or
           disqualifications of the main players.
         </FormationText>

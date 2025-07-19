@@ -29,8 +29,8 @@ export default function TransferContent() {
         <TransferHeader>Scoring</TransferHeader>
         <TransferText>
           Use substitutions wisely and choose your captain strategically. Keep
-          track of players' form, injuries, suspensions, and changes in team
-          lineups on a weekly basis. Don't keep players who have lost game
+          track of players form, injuries, suspensions, and changes in team
+          lineups on a weekly basis. Dont keep players who have lost game
           practice in the lineup.
         </TransferText>
       </TransferDescription>
